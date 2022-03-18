@@ -1,4 +1,4 @@
-// Als Ausgangspunkt für den Code habe ich folgende Tutorials verwendet:
+// The following tutorials have been used as references:
 // https://comp.anu.edu.au/courses/comp1720/labs/05-kaleidoscope/
 // https://www.youtube.com/watch?v=BWFO-NgSLGo
 
