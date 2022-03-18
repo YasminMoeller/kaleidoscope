@@ -25,8 +25,8 @@ int y_rotation = 10;
 
 void setup() {
   
-    //fullScreen();
-    size(800, 800);
+    fullScreen();
+    //size(800, 800);
     noStroke();
     
     shape = calcStuff(width,height,slices);
